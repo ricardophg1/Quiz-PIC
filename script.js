@@ -118,7 +118,11 @@ function iniciarQuiz() {
     document.getElementById('quiz').style.display = 'block';
     exibirPergunta(indicePerguntaAtual);
   } else {
+<<<<<<< HEAD
     alert('Por favor, preencha os campos corretamente!');
+=======
+      alert('Por favor, preencha os campos corretamente para acessar o quizs!');
+>>>>>>> dde1f52 (Corrigido texto de apresentação)
   }
 }
 
