@@ -119,10 +119,14 @@ function iniciarQuiz() {
     exibirPergunta(indicePerguntaAtual);
   } else {
 <<<<<<< HEAD
+<<<<<<< HEAD
     alert('Por favor, preencha os campos corretamente!');
 =======
       alert('Por favor, preencha os campos corretamente para acessar o quizs!');
 >>>>>>> dde1f52 (Corrigido texto de apresentação)
+=======
+      alert('Por favor, preencha os campos corretamente para acessar o quiz!');
+>>>>>>> 8e0b57e (Teste)
   }
 }
 
